@@ -1,5 +1,11 @@
 # task_menager
 
+Hosting:
+task-manager-63e4e.web.app
+
+example login: 
+lyokley0@dedecms.com
+
 ## Project setup
 ```
 npm install
